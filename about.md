@@ -25,7 +25,7 @@ GitHub 想要帮助开发者为自己选择一个合适的开源协议，为此�
 
 ## 出谋献策
 
-Choosealicense.online 不仅为开源服务，本身也是开源的，如果你觉得可以帮助我们做的更好，请在GitHub上 [fork这个项目](https://github.com/ChooseLicense/ChooseLicense.github.io) 然后给我们提交pull请求，我们很欢迎您的改进。
+Choosealicense.cc 不仅为开源服务，本身也是开源的，如果你觉得可以帮助我们做的更好，请在GitHub上 [fork这个项目](https://github.com/inferjay/ChooseLicense.github.io) 然后给我们提交pull请求，我们很欢迎您的改进。
 
 ## 敬谢不敏
 
