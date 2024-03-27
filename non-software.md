@@ -20,4 +20,4 @@ permalink: /non-software/
 
 ### 综合项目
 
-如果你的项目中包含软件和其它内容，你可以放置多个协议，只要你明确标示各个部分使用的协议即可，你可以参照[本网站的协议](https://github.com/ChooseLicense/ChooseLicense.github.io/#license)。
+如果你的项目中包含软件和其它内容，你可以放置多个协议，只要你明确标示各个部分使用的协议即可，你可以参照 [本网站的协议](https://github.com/ChooseLicense/ChooseLicense.github.io/#license)。
