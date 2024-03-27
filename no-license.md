@@ -18,7 +18,7 @@ description: "You're under no obligation to choose a license and it's your right
 </div> <!-- /license-body -->
 </div>
 
-"无协议" 并不能保证不让别人使用你的代码，相反，[选择一个开源协议](/)可以在保护你版权的同时允许别人重复利用你的代码。如果你想要完全放弃版权的话，推荐使用  [The Unlicense](/licenses/#unlicense)。
+"无协议" 并不能保证不让别人使用你的代码，相反，[选择一个开源协议](/) 可以在保护你版权的同时允许别人重复利用你的代码。如果你想要完全放弃版权的话，推荐使用  [The Unlicense](/licenses/#unlicense)。
 
 即便你没有放置许可协议，你所发布在某平台的源码会默认使用该平台协议，平台协议可能会默认授予或者限制某些权力。例如：如果你在GitHub平台发布源码，你必须接受 [GitHub服务条款](https://help.github.com/articles/github-terms-of-service/)，该条款默认允许他人查看和fork你的仓库。但不包括允许他人用你的代码做实验，修改和分享。 
 
